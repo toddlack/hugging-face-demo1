@@ -1,3 +1,9 @@
 gradio
 transformers
 tensorflow
+torch
+#for huggingface models
+datasets
+datasets[audio]
+datasets[vision]
+
